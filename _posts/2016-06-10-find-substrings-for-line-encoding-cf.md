@@ -1,8 +1,10 @@
 ---
+title: Find Substrings for line Encoding [CF]
+date: 2016-06-10 20:04:23 Z
+categories:
+- python
+- codefights
 layout: post
-title:  "Find Substrings for line Encoding [CF]"
-date:   2016-06-11 03:04:23 +0700
-categories: [python, codefights]
 ---
 
 Given a string, return its encoding defined as follows:

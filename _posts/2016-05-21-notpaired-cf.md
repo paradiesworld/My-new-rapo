@@ -1,8 +1,10 @@
 ---
+title: notPaired [CF]
+date: 2016-05-21 21:10:03 Z
+categories:
+- python
+- codefights
 layout: post
-title:  "notPaired [CF]"
-date:   2016-05-22 04:10:03 +0700
-categories: [python, codefights]
 ---
 
 Author Question: **Lepluto**

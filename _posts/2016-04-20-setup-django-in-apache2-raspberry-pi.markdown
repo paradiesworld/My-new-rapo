@@ -1,8 +1,10 @@
 ---
+title: Setup Django in apache2 Raspberry Pi
+date: 2016-04-20 15:32:34 Z
+categories:
+- django
+- raspberry
 layout: post
-title:  "Setup Django in apache2 Raspberry Pi"
-date:   2016-04-20 22:32:34 +0700
-categories: [django, raspberry]
 ---
 
 Setup Django in apache2 Raspberry Pi. Example in this configuration for monitoring the server raspberry pi using [https://github.com/k3oni/pydash/](https://github.com/k3oni/pydash/).

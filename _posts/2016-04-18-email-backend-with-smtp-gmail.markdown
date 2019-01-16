@@ -1,9 +1,12 @@
 ---
+title: Email BackEnd with SMTP Gmail
+date: 2016-04-18 19:28:15 Z
+categories:
+- python
+- django
 layout: post
-title:  "Email BackEnd with SMTP Gmail"
-date:   2016-04-19 02:28:15 +0700
-categories: [python, django]
 ---
+
 Add this configurations in your `settings.py`
 
 This configurations is if you work with `smtp.gmail.com`, other smtp is similiar with configurations.

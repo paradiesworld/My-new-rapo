@@ -1,8 +1,10 @@
 ---
+title: Remove all files .pyc with recrusive method
+date: 2016-04-19 07:39:34 Z
+categories:
+- python
+- bash
 layout: post
-title:  "Remove all files .pyc with recrusive method"
-date:   2016-04-19 14:39:34 +0700
-categories: [python, bash]
 ---
 
 This method simple but important. Example in your project dir is like this:

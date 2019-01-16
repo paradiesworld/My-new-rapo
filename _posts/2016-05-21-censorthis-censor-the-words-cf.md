@@ -1,8 +1,10 @@
 ---
+title: CensorThis - Censor the words [CF]
+date: 2016-05-21 21:17:54 Z
+categories:
+- python
+- codefights
 layout: post
-title:  "CensorThis - Censor the words [CF]"
-date:   2016-05-22 04:17:54 +0700
-categories: [python, codefights]
 ---
 
 Author Question: **Argaen**

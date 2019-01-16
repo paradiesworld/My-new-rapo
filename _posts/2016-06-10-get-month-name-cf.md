@@ -1,8 +1,10 @@
 ---
+title: get Month Name [CF]
+date: 2016-06-10 20:43:45 Z
+categories:
+- python
+- codefights
 layout: post
-title:  "get Month Name [CF]"
-date:   2016-06-11 03:43:45 +0700
-categories: [python, codefights]
 ---
 
 Map the given integer to a month.

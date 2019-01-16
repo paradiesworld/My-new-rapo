@@ -1,9 +1,11 @@
 ---
+title: Python Permutations
+date: 2016-04-19 12:31:43 Z
+categories:
+- python
 layout: post
-title:  "Python Permutations"
-date:   2016-04-19 19:31:43 +0700
-categories: [python]
 ---
+
 This simply how to implement the module of permutations in python.
 
 {% highlight ruby %}

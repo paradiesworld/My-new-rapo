@@ -1,8 +1,10 @@
 ---
+title: Adding BroadCast Mail to All Users Registered inside Django Admin
+date: 2016-04-20 12:51:02 Z
+categories:
+- python
+- django
 layout: post
-title:  "Adding BroadCast Mail to All Users Registered inside Django Admin"
-date:   2016-04-20 19:51:02 +0700
-categories: [python, django]
 image: Broadcast_Mail.png
 ---
 
