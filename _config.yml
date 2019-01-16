@@ -1,6 +1,6 @@
 ---
-title: Stack Problems
-timezone: UTC
+title: Top Story
+timezone: Europe/Berlin
 collections:
   posts:
     title: Posts
@@ -12,29 +12,26 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python
-  and Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+description: Welcome TO Tops Story.
+author: paradiesworld
+github: https://github.com/paradiesworld
+about: 
 avatar_url: "/static/img/avatar.jpg"
 enableTags: true
 social:
 - icon: fa-facebook
   link: "#"
 - icon: fa-twitter
-  link: https://twitter.com/agusmakmun6
+  link: https://twitter.com/paradiesworld
 - icon: fa-linkedin
-  link: https://www.linkedin.com/in/summonagus
+  link: https://www.linkedin.com/in/paradiesworld
 - icon: fa-stack-exchange
   link: "#"
 - icon: fa-github
-  link: https://github.com/agusmakmun
+  link: https://github.com/paradiesworld
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: 
+  fb_appid: 
 urls:
 - text: About Me
   url: "/about/"
