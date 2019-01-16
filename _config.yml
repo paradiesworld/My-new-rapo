@@ -1,0 +1,59 @@
+---
+title: Top Story
+timezone: Europe/Berlin
+collections:
+  posts:
+    title: Posts
+    output: true
+  project:
+    title: Project
+    output: true
+    permalink: "/project/:path/"
+  uploads:
+    title: Uploads
+    output: true
+description: Welcome TO Tops Story.
+author: paradiesworld
+github: https://github.com/paradiesworld
+about: 
+avatar_url: "/static/img/avatar.jpg"
+enableTags: true
+social:
+- icon: fa-facebook
+  link: "#"
+- icon: fa-twitter
+  link: https://twitter.com/paradiesworld
+- icon: fa-linkedin
+  link: https://www.linkedin.com/in/paradiesworld
+- icon: fa-stack-exchange
+  link: "#"
+- icon: fa-github
+  link: https://github.com/paradiesworld
+share:
+  twitter_username: 
+  fb_appid: 
+urls:
+- text: About Me
+  url: "/about/"
+- text: My Projects
+  url: "/projects/"
+- text: XML Feed
+  url: "/feed.xml"
+url: https://agusmakmun.github.io
+baseurl: 
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+- jekyll-paginate
+- jekyll-gist
+compress_html:
+  clippings: all
+  comments:
+  - "<!-- "
+  - " -->"
+  endings: all
+  ignore:
+    envs:
+    - development
